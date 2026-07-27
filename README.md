@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs" />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git" />
 </p>
 
 <p align="center">
